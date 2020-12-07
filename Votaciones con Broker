@@ -1,0 +1,11 @@
+Modificar el sistema de votaciones para que el sistema pueda distribuirse. Utilizar el estilo arquitectónico del broker. A partir del documento "descripcion de servicios.pdf" desarrolla el nuevo sistema.
+
+En la interfaz del cliente deberás incluir un par de funcionalidades
+
+Listar los servicios registrados en el broker (con opción de búsqueda)
+Listar la bitácora de actividades
+ENTREGA:
+
+Código fuente.
+Captura de pantallas del programa en ejecución.
+Actividad grupal. Formato de archivo: apellido1apellido2apellido3.zip
